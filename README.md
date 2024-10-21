@@ -1,5 +1,5 @@
 #Selenium WebDriver 4 Automation Framework
-This project is an advanced automation testing framework utilizing Selenium WebDriver 4 for robust and efficient UI testing. It leverages Maven for managing dependencies, JUnit for test execution, Cucumber for BDD-style test scenarios, and ExtentReports for detailed test reporting. The framework is organized using the Page Object Model (POM), ensuring maintainability and scalability.
+This project is an advanced automation testing framework utilizing Java Selenium WebDriver 4 for robust and efficient UI testing. It leverages Maven for managing dependencies, JUnit for test execution, Cucumber for BDD-style test scenarios, and ExtentReports for detailed test reporting. The framework is organized using the Page Object Model (POM), ensuring maintainability and scalability.
 
 **Key Features:**
 Selenium WebDriver 4 for browser automation with advanced capabilities
